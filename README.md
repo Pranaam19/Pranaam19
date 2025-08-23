@@ -1,6 +1,6 @@
 # Hi there, I'm Pranaam 👋  
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Software Engineer Intern @ Zilliot Technologies**, exploring AI/ML, Blockchain, and Cloud to build impactful solutions 🚀  
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** , exploring AI/ML and Cloud to build impactful solutions 🚀  
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 - 🎓 Pursuing Computer Science & Data Science Engineering at St. Joseph Engineering College  
 - 🌱 I’m currently learning about **Data Analysis, Machine Learning, and Artificial Intelligence**.  
 - 🎯 Passionate about building **scalable web apps** and exploring **AI-driven solutions**.
-- 📫 Reach me at: **[LinkedIn](www.linkedin.com/in/pranaam-g)** | [pranaam541@gmail.com](mailto:pranaam.g@gmail.com)
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/pranaam-g)** | [pranaam541@gmail.com](mailto:pranaam541@gmail.com)
 ---
 
 ## 📊 My GitHub Stats  
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **Sof
 ---
 
 ## 🤝 Connect with Me  
-📌 [LinkedIn](www.linkedin.com/in/pranaam-g)  
+📌 [LinkedIn](https://www.linkedin.com/in/pranaam-g)  
 🌐 [Portfolio](https://pranaam-g.vercel.app/)  
 
 ---
