@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** , explori
 ---
 
 ## 🚀 About Me  
-- 🎓 Pursuing Computer Science & Data Science Engineering at St. Joseph Engineering College  
+- 🎓 Pursuing M.E in Computer Science Engineering at Manipal School of Information Science.   
 - 🌱 I’m currently learning about **Data Analysis, Machine Learning, and Artificial Intelligence**.  
 - 🎯 Passionate about building **scalable web apps** and exploring **AI-driven solutions**.
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/pranaam-g)** | [pranaam541@gmail.com](mailto:pranaam541@gmail.com)
